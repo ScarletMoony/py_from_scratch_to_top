@@ -2,7 +2,7 @@ from collections import namedtuple
 
 x = namedtuple('C', 'g b c') # Именованый кортеж
 
-y = [x('N', 1 , 8), x('Br', 8, 14)] # Создание обьекта по namedtupl'у
+y = [x('N', 1, 8), x('Br', 8, 14)] # Создание обьекта по namedtupl'у
 
 print(y[0])
 

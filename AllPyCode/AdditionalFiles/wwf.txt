@@ -1,0 +1,4 @@
+wwf file
+line 2
+line 3
+end of the wwf file
